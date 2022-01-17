@@ -1,0 +1,27 @@
+.container1 {
+    width: 200px;
+    min-height: 60px;
+    background: transparent;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(1, 0, 0, .3);
+    padding: 40px 30px;
+    position: center;
+    margin-top: 30px;
+}
+
+.container1 .login-text {
+    color: #e7e7e7;
+    font-weight: 200px;
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px
+    display: block;
+    text-transform: capitalize;
+}
+
+.container1 .marquee-text {
+    color: #e7e7e7;
+    font-weight: 200px;
+    text-transform: capitalize;
+}
